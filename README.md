@@ -15,9 +15,10 @@ README.md
 ## C++ (C++17)
 
 ```
-cd Klinik
+cd Tugas-OOP-4
 g++ -std=c++17 -o main main.cpp
 ./main          (Windows: main.exe)
 ```
 
 ## Output
+<img width="1147" height="728" alt="Screenshot 2026-10-25 at 21 46 43" src="https://github.com/user-attachments/assets/dd463a87-7c01-4970-862f-3cdbbdab90a9" />
